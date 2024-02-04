@@ -5,3 +5,5 @@ Note that this GPT does not encode the data - just decodes it. The following res
   
 Example Output:  
 ![alt text](https://github.com/Kwintonium/LLM-shakespeare/blob/main/shakespeare.png)
+
+[Link to my Google Colab](https://colab.research.google.com/drive/10U0uIJKVGw9wZhgdmHAp74boq1DjJja-)
